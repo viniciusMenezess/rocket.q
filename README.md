@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.png" width="220px" />
-</h1>
-
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,7 +17,7 @@
   <img alt="Rocket.Q" src=".github/capa.png" width="100%">
 </p>
 
-## íº€ Technologies
+## Technologies
 
 This project was developed with the following technologies:
 
@@ -33,7 +29,7 @@ This project was developed with the following technologies:
 - Express
 - SQLite
 
-## í²» Project
+## Project
 
 Rocket.Q is a platform of questions in private rooms with password to enter, the administrator of the respective room can check the questions as read or erase then. Rocket.Q can be used by streamers or speakers in events to free rooms to the public make questions.Â 
 
