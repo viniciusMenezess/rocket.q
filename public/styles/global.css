@@ -27,7 +27,8 @@
 
 body {
   display: flex;
-  height: 100vh; /*view height*/
+  height: 100vh;
+  /*view height*/
   background: var(--background);
 }
 
@@ -45,10 +46,6 @@ textarea {
 .content {
   width: 100%;
   margin: 0 auto;
-}
-
-.content .password {
-  margin-top: -14rem;
 }
 
 .sr-only {
@@ -90,18 +87,6 @@ button,
   cursor: pointer;
 }
 
-.backbutton {
-  font-family: 'Poppins';
-  background: var(--blue);
-  border: 0;
-  color: var(--white);
-  width: 50%;
-  position: relative;
-  left: 9rem;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
 button:hover,
 .button:hover,
 .backbutton:hover {
@@ -113,6 +98,7 @@ button img,
   margin-right: 1rem;
   width: 2rem;
 }
+
 button.outlined,
 .button.outlined {
   background: var(--white);
