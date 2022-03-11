@@ -1,20 +1,27 @@
 {
   "name": "rocketq",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas dos usuarios direcionadas ao  dono  da página. Projeto desenvolvido na semana NLW da RocketSeat ",
+  "main": "src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/viniciusMenezess/rocket.q.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vinicius Menezes",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/viniciusMenezess/rocket.q/issues"
   },
-  "homepage": "https://github.com/viniciusMenezess/rocket.q#readme"
+  "homepage": "https://github.com/viniciusMenezess/rocket.q#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
